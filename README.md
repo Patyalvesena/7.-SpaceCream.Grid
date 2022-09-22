@@ -36,4 +36,15 @@ Descritivo:
 - Aplicação de animação de transição - aparecimento de imagens do main. 
 
 
+Conceitos aplicados em projetos. 
+
+- Responsividade
+- Variáveis CSS
+- Unidades de medidas relativas 
+- Transições
+- Animações 
+- @keyframes
+- Media Queries
+- GRID
+
 
