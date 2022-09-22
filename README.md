@@ -2,7 +2,12 @@
 
  Desafio aplicação de Grid e animações.
 
-[Prewiel](https://patyalvesena.github.io/7.-SpaceCream.Grid)
+
+![prewiel](./Prewiel/Captura%20de%20tela%202022-09-21%20213347.png)
+
+[Acesse aqui](https://patyalvesena.github.io/7.-SpaceCream.Grid)
+
+
 
 ## Tecnologias:
  
@@ -11,7 +16,9 @@
 
 ## Análide de projeto:
 
--> Layout disponível em (https://www.figma.com/file/UuuipSH5nisbYlgGa9xmAN/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?node-id=0%3A3)
+-> Layout disponível no [link](https://www.figma.com/file/UuuipSH5nisbYlgGa9xmAN/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?node-id=0%3A3)
+
+Descritivo:
 
 ### -> Header 
 - Background.
