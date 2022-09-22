@@ -105,7 +105,7 @@ fieldset p {
 
 main {
     max-width: 3.2rem;
-    margin: 0;
+    margin: auto;
     padding: 1.4rem 6.0rem 3.2rem;
 
     display: flex;
@@ -118,6 +118,7 @@ main {
 .cards {
     width: 22.0rem;
     height: auto;
+    position: relative;
 }
 
 .cards:nth-child(5) {
@@ -167,7 +168,7 @@ footer {
     padding: 1rem 2.3rem 1rem 2.4rem;
 
     border: none;
-    border-radius: 2.0remx;
+    border-radius: 2.0rem;
 
     display: flex;
     justify-content: center;
@@ -253,6 +254,7 @@ footer {
     }
 
     main {
+        margin: 0;
         animation: action-main 6s ease-in 3s reverse backwards;
         padding: 6.4rem 8.1rem 5.0rem 9.8rem;
         display: grid;
