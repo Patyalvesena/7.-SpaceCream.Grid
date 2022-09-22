@@ -35,8 +35,7 @@ Descritivo:
 - Ocultação de animação aplicada em layout mobile.
 - Aplicação de animação de transição - aparecimento de imagens do main. 
 
-
-Conceitos aplicados em projetos. 
+### Conceitos aplicados em projeto. 
 
 - Responsividade
 - Variáveis CSS
